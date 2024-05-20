@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lois. 
 - 💞️ I’m looking to collaborate on web design and web development. 
-- 📫 Reach me at : lois.wang.dev@gmail.com
 - ⚡ Fun fact: I run some Youtube Channels. I enjoy singing. 
 
 <!---
