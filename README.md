@@ -7,7 +7,7 @@ Loloishere/Loloishere is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,,html,css,sass,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,c,ts,,html,css,sass,tailwind&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,redu,nodejs,mongodb,mysql,prisma,postman&theme=dark)](https://skillicons.dev)
 
